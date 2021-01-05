@@ -2,7 +2,7 @@
 # CONFIGURE OUR AWS CONNECTION
 # ----------------------------
 
-provider "awst" {
+provider "aws" {
   region = "ap-south-1"
 }
 
